@@ -8,7 +8,7 @@
   - _Make sure you understand the project Architecture before proceeding with any tasks_
   
   ## Project Description
-  ZuriChat is a mobile application clone of the already existing slack application with more features like music room, chess room, meeting room etc etc.
+  ZuriChat is a mobile application clone of the already existing slack application with more features like music room, chess room, meeting room etc.
 
   - Music room: A room for shared playlist where users can add, play and share songs amongst themselves.
 
@@ -28,7 +28,7 @@
 
 |Naming Convention|Effective Style|Example|   
 |-----------------|---------------|-------|
-|Classes, enum types,typedefs,and type parameters,etensions|PascalCase|An example is HomeScreen|
+|Classes, enum types,typedefs,and type parameters,extensions|PascalCase|An example is HomeScreen|
 |Libraries, packages, directories, and source files, import prefixes|snake_case|An example is home_screen|
 |Class members, top-level definitions, variables, parameters, and named parameters, constants|camelCase|An example is verifiedUser|
 
